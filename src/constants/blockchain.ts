@@ -14,7 +14,7 @@ export const RPCURL = {
   [Networks.POLYGON_MUMBAI]: 'https://rpc-mumbai.maticvigil.com/',
   [Networks.OTTER_FORK]: 'https://fork-rpc.otterclam.finance',
   [Networks.HARDHAT]: 'http://localhost:8545',
-  [Networks.BSC_TESTNET]: 'https://data-seed-prebsc-1-s1.binance.org:8545/'
+  [Networks.BSC_TESTNET]: 'https://speedy-nodes-nyc.moralis.io/a58b69f8282c6ec6a2c196e5/bsc/testnet'
 };
 
 export const DEFAULT_NETWORK = Networks.BSC_TESTNET;
